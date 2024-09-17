@@ -1,0 +1,5 @@
+servidor\ServidorGUI.class
+servidor\ServidorGUI$ClientHandler.class
+cliente\ClienteGUI$ReaderHandler.class
+com\mycompany\tcp_archivos_distrubuidos\Tcp_archivos_distrubuidos.class
+cliente\ClienteGUI.class
